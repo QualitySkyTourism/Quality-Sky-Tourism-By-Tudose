@@ -1,0 +1,9 @@
+QST - Versiunea 2
+
+Deschide index.html in Edge pentru previzualizare.
+
+Pentru publicare: in repository GitHub, Add file > Upload files, incarca index.html, logo-qst.png, aframe-principal.jpg, bucovina.jpg, colibita.jpg, maramures.jpg. Confirma inlocuirea index.html si Commit changes.
+
+NU incarca arhiva ZIP ca atare.
+
+Fotografiile destinatiilor sunt concepte AI, nu unitati de cazare existente.
