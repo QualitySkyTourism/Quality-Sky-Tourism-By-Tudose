@@ -1,9 +1,11 @@
-QST - Versiunea 2
+QST Versiunea 4 - 14 noiembrie 2026
 
-Deschide index.html in Edge pentru previzualizare.
+1. Extrage arhiva ZIP pe calculator.
+2. Deschide index.html in Edge pentru verificare.
+3. In GitHub, intra in repository -> Add file -> Upload files.
+4. Selecteaza TOATE fisierele din folder (nu folderul si nu arhiva ZIP).
+5. Apasa Commit changes.
+6. Asteapta publicarea GitHub Pages si reincarca pagina cu Ctrl+F5.
 
-Pentru publicare: in repository GitHub, Add file > Upload files, incarca index.html, logo-qst.png, aframe-principal.jpg, bucovina.jpg, colibita.jpg, maramures.jpg. Confirma inlocuirea index.html si Commit changes.
-
-NU incarca arhiva ZIP ca atare.
-
-Fotografiile destinatiilor sunt concepte AI, nu unitati de cazare existente.
+NOU: A-frame in sectiunea viziune, Jurnal QST (jurnal.html), 3 articole introductive pe prima pagina, Contact refacut.
+Nota: imaginile noi sunt ilustratii/concepte AI, nu fotografii documentare ale unor locatii sau unitati de cazare existente.
